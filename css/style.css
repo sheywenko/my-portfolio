@@ -712,8 +712,8 @@ button {
   align-items: center;
   justify-content: center;
   position: absolute;
-  right: -40px;
-  top: -40px;
+  right: -27px;
+  top: -45px;
 }
 .pp-thumbnail img {
   border-radius: 10px;
@@ -833,7 +833,7 @@ button {
     margin: 0 7px 15px;
   }
   .portfolio-item {
-    width: calc(50%-30px);
+    width: 90%;
   }
 }
 @media (max-width: 767px) {
