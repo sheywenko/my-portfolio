@@ -600,7 +600,7 @@ button {
   position: relative;
   padding: 10px 0 0 40px;
 }
-.about-text .timeline-item::before {
+.timeline-item::before {
   content: "";
   position: absolute;
   height: 11px;
